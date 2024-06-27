@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu codifico com</h2>
 
 ###
 
@@ -49,7 +49,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/dennissanches/dennissanches/output/snake.svg" alt="Snake animation" />
 
 ###
