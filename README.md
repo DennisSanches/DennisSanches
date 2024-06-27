@@ -2,11 +2,9 @@
 
 ###
 
-<p align="left">Meu nome</p>
 
 ###
 
-<h2 align="left">About me</h2>
 
 ###
 
